@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Saad Shaikh</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://github.com/rudrabarad/Gifs")
+(img align="right" alt="Coding" width="400" src=""C:\Users\iammo\Desktop\img.gif"")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justtt-saad&label=Profile%20views&color=0e75b6&style=flat" alt="justtt-saad" /> </p>
