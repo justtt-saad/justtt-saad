@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently learning on ** Fullstack development**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **MEARN**
 
 - 📫 How to reach me **iammonu2022@gmail.com**
 
